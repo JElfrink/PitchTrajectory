@@ -11,7 +11,7 @@ import math
 from Trajectory_Function import simulate_pitch_trajectory
 
 # Title
-st.title('Pitch Trajectory Analysis')
+st.title('Pitch Trajectory Simulator Dashboard')
 
 ### Sidebar
 st.sidebar.title('Input Parameters')
